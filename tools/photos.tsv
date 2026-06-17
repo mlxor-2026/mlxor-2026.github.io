@@ -3,7 +3,7 @@
 # 로드 최적화를 위해 로컬로 내려받아 리사이즈하려면 이 표를 그대로 두고 fetch_photos.py 실행 후
 # +page.svelte의 image="..." 를 image="./imgs/<slug>.jpg" 로 바꾸면 됩니다.
 # --- Organizers ---
-minshuo	Minshuo Chen	Northwestern University	https://minshuochen.github.io/self.jpg
+minshuo	Minshuo Chen	Northwestern University	https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/chen-minshuo.jpg
 jingdong	Jing Dong	Columbia University	https://www.columbia.edu/~jd2736/index_files/image004.jpg
 henrylam	Henry Lam	Columbia University	https://www.engineering.columbia.edu/sites/default/files/styles/faculty_masthead_image/public/2024-07/Faculty-Henry_Lam-Thumbnail-435x435.jpg?itok=AqiJMvAi
 karthyek	Karthyek Murthy	University of Southern California	https://lh3.googleusercontent.com/sitesv/AA5AbUBXkp9cxiylvUZnKNjbfVwqOGKypg8DWRC81mm7dhc8FjC1fC2NfTM8ROhyr5A1uSkaUhMN2ip5UdTMjZnmx546sqhjWn1D7qoIgOxcEzCvVXEnU2ihi-HE9SfABpAwDYf9MX_vehRFLOrorcsmgoj0oRdckACDibuU3g44q5-PqAOLaZSkossM17eE6mXC-46bK0joQQ2nPjeBu3E=w1280

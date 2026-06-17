@@ -21,8 +21,8 @@
 			</div>
 			<div class="inline-block text-4xl"><strong>Second Workshop on ML×OR:</strong><br>Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</div>
 			<div class="mt-8 flex items-center space-x-2">
-				<div class="font-mono text-sm text-gray-500">Theme</div>
-				<div class="text-sm">Decision-Making with GenAI + OR</div>
+				<div class="font-mono text-sm text-gray-500">Supported by</div>
+				<div class="text-sm">INFORMS Applied Probability Society</div>
 			</div>
 			<div class="text-md mt-8 text-gray-800">December 2026</div>
 			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot; Location to be announced</div>
@@ -133,7 +133,7 @@
 				name="Minshuo Chen"
 				affiliation="Northwestern University"
 				link="https://minshuochen.github.io/"
-				image="https://minshuochen.github.io/self.jpg"
+				image="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/chen-minshuo.jpg"
 			></Person>
 			<Person
 				name="Jing Dong"
@@ -152,6 +152,7 @@
 				affiliation="University of Southern California"
 				link="https://sites.google.com/site/karthyekswebpage/"
 				image="./imgs/karthyek.jpg"
+				position="top"
 			></Person>
 			<Person
 				name="Min-hwan Oh"
@@ -189,46 +190,16 @@
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 			<Person
-				name="Assaf Zeevi"
-				affiliation="Columbia University"
-				link="https://business.columbia.edu/faculty/people/assaf-zeevi"
-				image="https://business.columbia.edu/sites/default/files-efs/styles/default_content_image_cinema/public/person/photos/assaf-pic-19.jpg?h=6ef299b7&itok=09SgCMLG"
-			></Person>
-			<Person
 				name="Erick Delage"
 				affiliation="HEC Montréal"
 				link="https://tintin.hec.ca/pages/erick.delage/"
 				image="https://www.hec.ca/en/profs/erick.delage.jpg"
 			></Person>
 			<Person
-				name="Masatoshi Uehara"
-				affiliation="OpenAI"
-				link="https://www.masatoshiuehara.com/"
-				image="./imgs/uehara.jpg"
-			></Person>
-			<Person
-				name="Yao Xie"
-				affiliation="Georgia Institute of Technology"
-				link="https://www2.isye.gatech.edu/~yxie77"
-				image="/imgs/Yao_Xie.jpg"
-			></Person>
-			<Person
-				name="Lei Ying"
-				affiliation="University of Michigan"
-				link="https://leiying.engin.umich.edu/"
-				image="https://ecesite.engin.umich.edu/wp-content/uploads/sites/59/2021/08/Ying_Lei705.jpg"
-			></Person>
-			<Person
-				name="Linwei Xin"
+				name="Nathan Kallus"
 				affiliation="Cornell University"
-				link="https://xin.engineering.cornell.edu/"
-				image="https://xin.engineering.cornell.edu/files/2025/06/LinweiXin_Homepage_500x500-1.jpg"
-			></Person>
-			<Person
-				name="Milind Tambe"
-				affiliation="Harvard University"
-				link="https://teamcore.seas.harvard.edu/tambe/"
-				image="https://seas.harvard.edu/sites/default/files/styles/headshot_1x/public/2021-10/tambe_200x300_0.jpg?h=bf372811&itok=KuTphLLc"
+				link="https://nathankallus.com/"
+				image="https://nathankallus.com/nathan.jpg"
 			></Person>
 			<Person
 				name="David Simchi-Levi"
@@ -237,10 +208,18 @@
 				image="https://cee.mit.edu/wp-content/uploads/2021/07/Simchi-Levi.png"
 			></Person>
 			<Person
-				name="Amy Ward"
-				affiliation="University of Chicago"
-				link="https://voices.uchicago.edu/amyward/"
-				image="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/amy-ward/chicago-booth-amy-ward.jpg?cx=0.49&cy=0.48&cw=749&ch=940&hash=80829518B021A2530847E69CAEA35F80"
+				name="Milind Tambe"
+				affiliation="Harvard University"
+				link="https://teamcore.seas.harvard.edu/tambe/"
+				image="https://seas.harvard.edu/sites/default/files/styles/headshot_1x/public/2021-10/tambe_200x300_0.jpg?h=bf372811&itok=KuTphLLc"
+				position="top"
+			></Person>
+			<Person
+				name="Masatoshi Uehara"
+				affiliation="OpenAI"
+				link="https://www.masatoshiuehara.com/"
+				image="./imgs/uehara.jpg"
+				position="top"
 			></Person>
 			<Person
 				name="Benjamin Van Roy"
@@ -249,10 +228,36 @@
 				image="https://web.stanford.edu/~bvr/photo.jpg"
 			></Person>
 			<Person
-				name="Nathan Kallus"
+				name="Amy Ward"
+				affiliation="University of Chicago"
+				link="https://voices.uchicago.edu/amyward/"
+				image="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/amy-ward/chicago-booth-amy-ward.jpg?cx=0.49&cy=0.48&cw=749&ch=940&hash=80829518B021A2530847E69CAEA35F80"
+				position="top"
+			></Person>			
+			<Person
+				name="Yao Xie"
+				affiliation="Georgia Institute of Technology"
+				link="https://www2.isye.gatech.edu/~yxie77"
+				image="/imgs/Yao_Xie.jpg"
+				position="top"
+			></Person>
+			<Person
+				name="Linwei Xin"
 				affiliation="Cornell University"
-				link="https://nathankallus.com/"
-				image="https://nathankallus.com/nathan.jpg"
+				link="https://xin.engineering.cornell.edu/"
+				image="https://xin.engineering.cornell.edu/files/2025/06/LinweiXin_Homepage_500x500-1.jpg"
+			></Person>
+			<Person
+				name="Lei Ying"
+				affiliation="University of Michigan"
+				link="https://leiying.engin.umich.edu/"
+				image="https://ecesite.engin.umich.edu/wp-content/uploads/sites/59/2021/08/Ying_Lei705.jpg"
+			></Person>
+			<Person
+				name="Assaf Zeevi"
+				affiliation="Columbia University"
+				link="https://business.columbia.edu/faculty/people/assaf-zeevi"
+				image="https://business.columbia.edu/sites/default/files-efs/styles/default_content_image_cinema/public/person/photos/assaf-pic-19.jpg?h=6ef299b7&itok=09SgCMLG"
 			></Person>
 			</div>
 		</div>
