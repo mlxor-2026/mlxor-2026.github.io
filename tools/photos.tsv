@@ -1,0 +1,25 @@
+# slug	name	affiliation	source_image_url
+# 모든 사진 URL은 +page.svelte에 원격(remote)으로 이미 연결되어 바로 표시됩니다.
+# 로드 최적화를 위해 로컬로 내려받아 리사이즈하려면 이 표를 그대로 두고 fetch_photos.py 실행 후
+# +page.svelte의 image="..." 를 image="./imgs/<slug>.jpg" 로 바꾸면 됩니다.
+# --- Organizers ---
+minshuo	Minshuo Chen	Northwestern University	https://minshuochen.github.io/self.jpg
+jingdong	Jing Dong	Columbia University	https://www.columbia.edu/~jd2736/index_files/image004.jpg
+henrylam	Henry Lam	Columbia University	https://www.engineering.columbia.edu/sites/default/files/styles/faculty_masthead_image/public/2024-07/Faculty-Henry_Lam-Thumbnail-435x435.jpg?itok=AqiJMvAi
+karthyek	Karthyek Murthy	University of Southern California	https://lh3.googleusercontent.com/sitesv/AA5AbUBXkp9cxiylvUZnKNjbfVwqOGKypg8DWRC81mm7dhc8FjC1fC2NfTM8ROhyr5A1uSkaUhMN2ip5UdTMjZnmx546sqhjWn1D7qoIgOxcEzCvVXEnU2ihi-HE9SfABpAwDYf9MX_vehRFLOrorcsmgoj0oRdckACDibuU3g44q5-PqAOLaZSkossM17eE6mXC-46bK0joQQ2nPjeBu3E=w1280
+minhwanoh	Min-hwan Oh	Seoul National University	https://minoh.io/assets/img/mho.webp
+devavrat	Devavrat Shah	MIT	https://devavrat.mit.edu/files/2025/05/cropped-DevavratShah.jpg
+renyuan	Renyuan Xu	Stanford University	https://renyuanxu.github.io/images/renyuan3.png
+enluzhou	Enlu Zhou	Georgia Institute of Technology	https://enluzhou.gatech.edu/images/Enlu2017.jpg
+# --- Speakers & Panelists ---
+zeevi	Assaf Zeevi	Columbia University	https://business.columbia.edu/sites/default/files-efs/styles/default_content_image_cinema/public/person/photos/assaf-pic-19.jpg?h=6ef299b7&itok=09SgCMLG
+delage	Erick Delage	HEC Montréal	https://www.hec.ca/en/profs/erick.delage.jpg
+uehara	Masatoshi Uehara	OpenAI	https://lh3.googleusercontent.com/sitesv/AA5AbUDeIUcp1SgdnCi_f0lKRATUgF4ONpD8fyqY40JTRk_TMF-BZBVyb13tQQMAOox15hWVYZUdSsyKIeg0ZoBzlN4LkUlwXGCuj_XlCQlin3UIlt6YvYtpyArtg0KvPzx1_-uzo8X-5hupuknUqC526rr1A7dlxvBZFdfK2J_7kiCm7MEKpHDaX-FFKiG7zVzNW8fvm7i7GaDGfavSYzGJYkxFmwVIAsx0uImcM2HCvj0=w1280
+yao	Yao Xie	Georgia Institute of Technology	https://www2.isye.gatech.edu/~yxie77/Yao_Xie.jpg
+ying	Lei Ying	University of Michigan	https://ecesite.engin.umich.edu/wp-content/uploads/sites/59/2021/08/Ying_Lei705.jpg
+linwei	Linwei Xin	Cornell University	https://xin.engineering.cornell.edu/files/2025/06/LinweiXin_Homepage_500x500-1.jpg
+tambe	Milind Tambe	Harvard University	https://seas.harvard.edu/sites/default/files/styles/headshot_1x/public/2021-10/tambe_200x300_0.jpg?h=bf372811&itok=KuTphLLc
+simchilevi	David Simchi-Levi	MIT	https://cee.mit.edu/wp-content/uploads/2021/07/Simchi-Levi.png
+amyward	Amy Ward	University of Chicago	https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/amy-ward/chicago-booth-amy-ward.jpg?cx=0.49&cy=0.48&cw=749&ch=940&hash=80829518B021A2530847E69CAEA35F80
+vanroy	Benjamin Van Roy	Stanford University	https://web.stanford.edu/~bvr/photo.jpg
+kallus	Nathan Kallus	Cornell University	https://nathankallus.com/nathan.jpg
