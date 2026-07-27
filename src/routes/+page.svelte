@@ -4,6 +4,7 @@
 	import Person from '$lib/components/Person.svelte';
 	import NavLink from '$lib/components/NavLink.svelte';
 	import Intro from '../content/intro.md';
+	import Call from '../content/call.md';
 	import PCmembers from '../content/pc-members.md';
 </script>
 
@@ -25,7 +26,7 @@
 				<div class="text-sm">INFORMS Applied Probability Society</div>
 			</div>
 			<div class="text-md mt-8 text-gray-800">December 2026</div>
-			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot; Location to be announced</div>
+			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot;  Atlanta, Georgia, USA</div>
 		</div>
 	</div>
 	<div
@@ -35,6 +36,8 @@
 			<div
 				class="my-2 flex flex-row flex-wrap items-center justify-start font-mono text-sm md:text-base"
 			>
+				<NavLink href="#call">Call for Papers</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#schedule">Schedule</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#speakers">Speakers</NavLink>
@@ -47,15 +50,19 @@
 	<Block padding="py-8" class="md:text-justify">
 		<Intro />
 	</Block>
+	
+	<Block>
+		<h1 class="mb-6 text-2xl font-bold" id="call">Call for Papers</h1>	
+		<div class="md:text-justify">
+		<Call />
+		</div>
+	</Block>
 
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
 		<div class="mb-6 text-base md:text-justify">
 			<p>
-				The planned 8.5-hour program (8:30&ndash;17:00) consists of 3 keynote talks (30 mins each),
-				2 panel discussions (45 mins each), 3 poster sessions (1 hour each), 4 spotlight
-				presentations for selected submissions (10 mins each), and break times (2 30-min coffee
-				breaks and a 50-min lunch). The tentative schedule is below.
+				The tentative schedule is shown below and will be updated soon.
 			</p>
 		</div>
 		<div>
@@ -124,65 +131,6 @@
 	</Block>
 
 	<Block padding="pb-4">
-		<h1 class="mb-4 text-2xl font-bold" id="organizers">Organizers</h1>
-	</Block>
-	<Block>
-		<div class="flex flex-col items-center justify-center">
-			<div class="flex flex-wrap justify-center">
-			<Person
-				name="Minshuo Chen"
-				affiliation="Northwestern University"
-				link="https://minshuochen.github.io/"
-				image="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/chen-minshuo.jpg"
-			></Person>
-			<Person
-				name="Jing Dong"
-				affiliation="Columbia University"
-				link="https://www.columbia.edu/~jd2736"
-				image="https://www.columbia.edu/~jd2736/index_files/image004.jpg"
-			></Person>
-			<Person
-				name="Henry Lam"
-				affiliation="Columbia University"
-				link="https://www.engineering.columbia.edu/faculty-staff/directory/henry-lam"
-				image="https://www.engineering.columbia.edu/sites/default/files/styles/faculty_masthead_image/public/2024-07/Faculty-Henry_Lam-Thumbnail-435x435.jpg?itok=AqiJMvAi"
-			></Person>
-			<Person
-				name="Karthyek Murthy"
-				affiliation="University of Southern California"
-				link="https://sites.google.com/site/karthyekswebpage/"
-				image="./imgs/karthyek.jpg"
-				position="top"
-			></Person>
-			<Person
-				name="Min-hwan Oh"
-				affiliation="Seoul National University"
-				link="https://minoh.io/"
-				image="https://minoh.io/assets/img/mho.webp"
-			></Person>
-			<Person
-				name="Devavrat Shah"
-				affiliation="MIT"
-				link="https://devavrat.mit.edu/"
-				image="https://devavrat.mit.edu/files/2025/05/cropped-DevavratShah.jpg"
-			></Person>
-			<Person
-				name="Renyuan Xu"
-				affiliation="Stanford University"
-				link="https://renyuanxu.github.io/"
-				image="https://renyuanxu.github.io/images/renyuan3.png"
-			></Person>
-			<Person
-				name="Enlu Zhou"
-				affiliation="Georgia Institute of Technology"
-				link="https://www.enluzhou.gatech.edu/"
-				image="https://enluzhou.gatech.edu/images/Enlu2017.jpg"
-			></Person>
-			</div>
-		</div>
-	</Block>
-
-	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 		<p class="text-base text-gray-600">The following speakers and panelists are confirmed so far.</p>
 	</Block>
@@ -193,25 +141,25 @@
 				name="Erick Delage"
 				affiliation="HEC Montréal"
 				link="https://tintin.hec.ca/pages/erick.delage/"
-				image="https://www.hec.ca/en/profs/erick.delage.jpg"
+				image="./imgs/erick-delage.jpg"
 			></Person>
 			<Person
 				name="Nathan Kallus"
 				affiliation="Cornell University"
 				link="https://nathankallus.com/"
-				image="https://nathankallus.com/nathan.jpg"
+				image="./imgs/nathan.jpg"
 			></Person>
 			<Person
-				name="David Simchi-Levi"
+				name="David<br>Simchi-Levi"
 				affiliation="MIT"
 				link="https://slevi1.mit.edu/"
-				image="https://cee.mit.edu/wp-content/uploads/2021/07/Simchi-Levi.png"
+				image="./imgs/Simchi-Levi.jpg"
 			></Person>
 			<Person
 				name="Milind Tambe"
 				affiliation="Harvard University"
 				link="https://teamcore.seas.harvard.edu/tambe/"
-				image="https://seas.harvard.edu/sites/default/files/styles/headshot_1x/public/2021-10/tambe_200x300_0.jpg?h=bf372811&itok=KuTphLLc"
+				image="./imgs/tambe.jpg"
 				position="top"
 			></Person>
 			<Person
@@ -222,16 +170,16 @@
 				position="top"
 			></Person>
 			<Person
-				name="Benjamin Van Roy"
+				name="Benjamin<br>Van Roy"
 				affiliation="Stanford University"
 				link="https://web.stanford.edu/~bvr/"
-				image="https://web.stanford.edu/~bvr/photo.jpg"
+				image="./imgs/vanroy.jpg"
 			></Person>
 			<Person
 				name="Amy Ward"
 				affiliation="University of Chicago"
 				link="https://voices.uchicago.edu/amyward/"
-				image="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/amy-ward/chicago-booth-amy-ward.jpg?cx=0.49&cy=0.48&cw=749&ch=940&hash=80829518B021A2530847E69CAEA35F80"
+				image="./imgs/amy-ward.jpg"
 				position="top"
 			></Person>			
 			<Person
@@ -245,19 +193,78 @@
 				name="Linwei Xin"
 				affiliation="Cornell University"
 				link="https://xin.engineering.cornell.edu/"
-				image="https://xin.engineering.cornell.edu/files/2025/06/LinweiXin_Homepage_500x500-1.jpg"
+				image="./imgs/LinweiXin.jpg"
 			></Person>
 			<Person
 				name="Lei Ying"
 				affiliation="University of Michigan"
 				link="https://leiying.engin.umich.edu/"
-				image="https://ecesite.engin.umich.edu/wp-content/uploads/sites/59/2021/08/Ying_Lei705.jpg"
+				image="./imgs/Ying_Lei.jpg"
 			></Person>
 			<Person
 				name="Assaf Zeevi"
 				affiliation="Columbia University"
 				link="https://business.columbia.edu/faculty/people/assaf-zeevi"
-				image="https://business.columbia.edu/sites/default/files-efs/styles/default_content_image_cinema/public/person/photos/assaf-pic-19.jpg?h=6ef299b7&itok=09SgCMLG"
+				image="./imgs/assaf.jpg"
+			></Person>
+			</div>
+		</div>
+	</Block>
+
+	<Block padding="pb-4">
+		<h1 class="mb-4 text-2xl font-bold" id="organizers">Organizers</h1>
+	</Block>
+	<Block>
+		<div class="flex flex-col items-center justify-center">
+			<div class="flex flex-wrap justify-center">
+			<Person
+				name="Minshuo Chen"
+				affiliation="Northwestern University"
+				link="https://minshuochen.github.io/"
+				image="./imgs/chen-minshuo.jpg"
+			></Person>
+			<Person
+				name="Jing Dong"
+				affiliation="Columbia University"
+				link="https://www.columbia.edu/~jd2736"
+				image="./imgs/jingdong.jpg"
+			></Person>
+			<Person
+				name="Henry Lam"
+				affiliation="Columbia University"
+				link="https://www.engineering.columbia.edu/faculty-staff/directory/henry-lam"
+				image="./imgs/henry-lam.jpg"
+			></Person>
+			<Person
+				name="Karthyek Murthy"
+				affiliation="University of Southern California"
+				link="https://sites.google.com/site/karthyekswebpage/"
+				image="./imgs/karthyek.jpg"
+				position="top"
+			></Person>
+			<Person
+				name="Min-hwan Oh"
+				affiliation="Seoul National University"
+				link="https://minoh.io/"
+				image="./imgs/mho.webp"
+			></Person>
+			<Person
+				name="Devavrat Shah"
+				affiliation="MIT"
+				link="https://devavrat.mit.edu/"
+				image="./imgs/DevavratShah.jpg"
+			></Person>
+			<Person
+				name="Renyuan Xu"
+				affiliation="Stanford University"
+				link="https://renyuanxu.github.io/"
+				image="./imgs/renyuan.jpg"
+			></Person>
+			<Person
+				name="Enlu Zhou"
+				affiliation="Georgia Institute of Technology"
+				link="https://www.enluzhou.gatech.edu/"
+				image="./imgs/Enlu.jpg"
 			></Person>
 			</div>
 		</div>

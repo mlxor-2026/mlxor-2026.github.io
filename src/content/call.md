@@ -1,23 +1,17 @@
-We invite submissions at the intersection of Machine Learning and Operations Research, with a particular focus on this year's theme, **decision-making with GenAI+OR**. Topics of interest include, but are not limited to, the subtopics listed above. Submissions broadly in the ML-OR intersection are also welcome.
+**Submission Guildlines**
+- **Submission site**: <br>[<u>https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MLxOR</u>](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MLxOR)
+- **Paper length**: Maximum **4 pages** for the main body, using the NeurIPS conference format. Unlimited references and supplemental materials are permitted beyond the page limit for the main body. However, reviewers are not obliged to review the supplemental materials.
+- **Non-anonymity and formatting**: Submissions are **non-anonymous**. Moreover, please use the NeurIPS 2026 paper format: <br>[<u>https://neurips.cc/Conferences/2026/CallForPapers</u>](https://neurips.cc/Conferences/2026/CallForPapers) (in the provided latex template, please adopt the single-blind format by using the “sglblindworkshop” option, and you may drop the NeurIPS Paper Checklist expected for main conference submissions; this checklist is not required for our workshop’s submissions).
+- **Eligibility policy**: Workshop papers are **non-archival**. That is, submission to the workshop will not preclude future journal or conference publication. On the other hand, per this year’s NeurIPS conference policy, previously published works, including papers accepted to and presented at this year’s main NeurIPS conference, are **not eligible** to appear in a workshop, as the workshop goal is to facilitate dynamic discussion of work in progress and future directions.
 
-Submissions are limited to at most 4 pages of main body, in the NeurIPS conference proceedings format (please see [<u>https://neurips.cc/Conferences/2026/CallForPapers</u>](https://neurips.cc/Conferences/2026/CallForPapers)). In addition to these 4 pages, references of an unlimited length are allowed.
+All accepted papers will be presented in one of the poster sessions at the workshop. In addition, several selected papers will be chosen as “spotlight” for oral presentations.
 
-Submissions are **non-anonymous** and **non-archival**. We welcome submissions based on preliminary working progress, work under review, or work that has already been published in prior venues. In particular, papers based on work under review or prior publication are allowed and encouraged.
+Moreover, we will continue and expand the workshop-to-journal pipeline from our inaugural workshop last year, where selected outstanding workshop submissions will be invited to submit a full journal version. This year, we are coordinating with three journals, *Stochastic Systems*, *Mathematics of Operations Research*, and *Operations Research*, for workshop-to-journal conversion. Additional details will be announced as they become available.
 
-For papers based on preliminary working progress, submission to the workshop will not preclude future journal or conference publication.
+**Important Dates**
 
-All accepted papers will be presented in a poster session at the workshop. In addition, several selected papers will be chosen as "spotlight" for oral presentations.
+- **Submission deadline**: August 31, 2026 (AoE)
+- Paper Decision Notification: September 29, 2026 (AoE)
+- Workshop Date and Location: December 12 or 13, 2026, in Atlanta, GA, USA
 
-**Important Dates** (all deadlines are tentative and to be confirmed):
-
-- Submission deadline: TBA
-- Acceptance notification: TBA
-- Workshop date: December 2026 (NeurIPS 2026)
-
-Submission portal (OpenReview) and detailed instructions will be announced here soon.
-
-**Additional Clarifications about Submission Policy:**
-
-* Supplemental materials (of reasonable length) may also be included, but they are optional and reviewers are not required to review these materials.
-* When using the NeurIPS conference paper template, please adopt the single-blind format since submissions to our workshop are non-anonymous.
-* You may drop the NeurIPS Paper Checklist expected for main conference submissions. This checklist is not required for our workshop's submissions.
+If you have any questions or would like additional information, please feel free to reach out to us via: [<u>neurips.mlxor.workshop@gmail.com</u>](mailto:neurips.mlxor.workshop@gmail.com).

@@ -15,7 +15,7 @@
 		<div
 			class="mt-2 mb-2 max-w-34 border-gray-300 text-center text-xl underline decoration-gray-300 underline-offset-6 transition hover:decoration-gray-500"
 		>
-			{name}
+			{@html name}
 		</div>
 		<div class="max-w-34 text-center text-base text-gray-600">{affiliation}</div>
 	</div>
