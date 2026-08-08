@@ -26,7 +26,7 @@
 				<div class="text-sm">INFORMS Applied Probability Society</div>
 			</div>
 			<div class="text-md mt-8 text-gray-800">December 2026</div>
-			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot;  Atlanta, Georgia, USA</div>
+			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot;  Atlanta, GA, USA</div>
 		</div>
 	</div>
 	<div

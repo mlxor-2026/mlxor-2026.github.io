@@ -15,3 +15,16 @@ Moreover, we will continue and expand the workshop-to-journal pipeline from our 
 - Workshop Date and Location: December 12 or 13, 2026, in Atlanta, GA, USA
 
 If you have any questions or would like additional information, please feel free to reach out to us via: [<u>neurips.mlxor.workshop@gmail.com</u>](mailto:neurips.mlxor.workshop@gmail.com).
+
+<p style="text-align: center; color: #ccc; margin: 2rem 0; font-size: 1.2rem;">·</p>
+
+We are also excited to continue and expand the **workshop-to-journal pathway** introduced last year. This year, we are coordinating with *Stochastic Systems*, *Mathematics of Operations Research*, and *Operations Research*. Authors may indicate at most one journal for which they would like their paper to be considered when submitting, and invitation decisions will be made independently by the respective journal editors.
+
+
+For *Stochastic Systems*, designated Associate Editors will determine which papers are invited to proceed through the pathway. Invited papers will undergo the journal’s standard review process, with an effort to retain the same reviewers from the workshop whenever appropriate.
+
+
+For *Mathematics of Operations Research*, designated Area Editors will determine which papers are invited. Invited authors will submit the workshop reviews and explain how they have addressed the feedback received during the workshop review. The papers will then proceed directly to external review under the journal’s standard review process, with an effort to retain at least one workshop reviewer when appropriate.
+
+
+For *Operations Research*, designated Area Editors will determine which papers are invited. Invited papers will be required to address the workshop feedback and will then proceed directly to external review under the journal’s standard review process, with reviewers selected by the journal.
