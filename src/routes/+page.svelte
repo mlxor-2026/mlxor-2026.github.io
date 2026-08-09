@@ -174,14 +174,7 @@
 				affiliation="Stanford University"
 				link="https://web.stanford.edu/~bvr/"
 				image="./imgs/vanroy.jpg"
-			></Person>
-			<Person
-				name="Amy Ward"
-				affiliation="University of Chicago"
-				link="https://voices.uchicago.edu/amyward/"
-				image="./imgs/amy-ward.jpg"
-				position="top"
-			></Person>			
+			></Person>	
 			<Person
 				name="Yao Xie"
 				affiliation="Georgia Institute of Technology"
@@ -207,6 +200,20 @@
 				link="https://business.columbia.edu/faculty/people/assaf-zeevi"
 				image="./imgs/assaf.jpg"
 			></Person>
+			<Person
+				name="Phebe Vayanos"
+				affiliation="University of Southern California"
+				link="https://sites.google.com/usc.edu/phebevayanos/"
+				image="./imgs/phebe.jpg"
+				position="top"
+			></Person>
+			<Person
+				name="Emma Brunskill"
+				affiliation="Stanford University"
+				link="https://cs.stanford.edu/people/ebrun/"
+				image="./imgs/emma.jpg"
+			></Person>
+			
 			</div>
 		</div>
 	</Block>
