@@ -138,6 +138,12 @@
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 			<Person
+				name="Emma Brunskill"
+				affiliation="Stanford University"
+				link="https://cs.stanford.edu/people/ebrun/"
+				image="./imgs/emma.jpg"
+			></Person>
+			<Person
 				name="Erick Delage"
 				affiliation="HEC Montréal"
 				link="https://tintin.hec.ca/pages/erick.delage/"
@@ -174,7 +180,14 @@
 				affiliation="Stanford University"
 				link="https://web.stanford.edu/~bvr/"
 				image="./imgs/vanroy.jpg"
-			></Person>	
+			></Person>
+			<Person
+				name="Phebe Vayanos"
+				affiliation="University of Southern California"
+				link="https://sites.google.com/usc.edu/phebevayanos/"
+				image="./imgs/phebe.jpg"
+				position="top"
+			></Person>
 			<Person
 				name="Yao Xie"
 				affiliation="Georgia Institute of Technology"
@@ -200,20 +213,6 @@
 				link="https://business.columbia.edu/faculty/people/assaf-zeevi"
 				image="./imgs/assaf.jpg"
 			></Person>
-			<Person
-				name="Phebe Vayanos"
-				affiliation="University of Southern California"
-				link="https://sites.google.com/usc.edu/phebevayanos/"
-				image="./imgs/phebe.jpg"
-				position="top"
-			></Person>
-			<Person
-				name="Emma Brunskill"
-				affiliation="Stanford University"
-				link="https://cs.stanford.edu/people/ebrun/"
-				image="./imgs/emma.jpg"
-			></Person>
-			
 			</div>
 		</div>
 	</Block>
