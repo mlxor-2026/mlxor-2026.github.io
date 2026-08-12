@@ -134,7 +134,7 @@
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 		<p class="text-base text-gray-600">The following speakers and panelists are confirmed so far.</p>
 	</Block>
-	<Block>
+	<Block size="max-w-4xl">
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 			<Person
@@ -154,6 +154,12 @@
 				affiliation="Cornell University"
 				link="https://nathankallus.com/"
 				image="./imgs/nathan.jpg"
+			></Person>
+			<Person
+				name="David Shmoys"
+				affiliation="Cornell University"
+				link="https://people.orie.cornell.edu/shmoys/"
+				image="./imgs/david.jpg"
 			></Person>
 			<Person
 				name="David<br>Simchi-Levi"
