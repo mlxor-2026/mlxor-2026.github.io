@@ -6,8 +6,6 @@
 
 All accepted papers will be presented in one of the poster sessions at the workshop. In addition, several selected papers will be chosen as “spotlight” for oral presentations.
 
-Moreover, we will continue and expand the workshop-to-journal pipeline from our inaugural workshop last year, where selected outstanding workshop submissions will be invited to submit a full journal version. This year, we are coordinating with three journals, *Stochastic Systems*, *Mathematics of Operations Research*, and *Operations Research*, for workshop-to-journal conversion. Additional details will be announced as they become available.
-
 **Important Dates**
 
 - **Submission deadline**: August 31, 2026 (AoE)
