@@ -4,7 +4,7 @@
 - **Non-anonymity and formatting**: Submissions are **non-anonymous**. Moreover, please use the NeurIPS 2026 paper format: <br>[<u>https://neurips.cc/Conferences/2026/CallForPapers</u>](https://neurips.cc/Conferences/2026/CallForPapers) (in the provided latex template, please adopt the single-blind format by using the “sglblindworkshop” option, and you may drop the NeurIPS Paper Checklist expected for main conference submissions; this checklist is not required for our workshop’s submissions).
 - **Eligibility policy**: Workshop papers are **non-archival**. That is, submission to the workshop will not preclude future journal or conference publication. On the other hand, per this year’s NeurIPS conference policy, previously published works, including papers accepted to and presented at this year’s main NeurIPS conference, are **not eligible** to appear in a workshop, as the workshop goal is to facilitate dynamic discussion of work in progress and future directions.
 
-All accepted papers will be presented in one of the poster sessions at the workshop. In addition, several selected papers will be chosen as “spotlight” for oral presentations.
+All accepted papers will be presented in one of the poster sessions at the workshop. In addition, several selected papers will be chosen for best paper awards and oral presentations.
 
 **Important Dates**
 
