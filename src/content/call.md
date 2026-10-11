@@ -8,9 +8,9 @@ All accepted papers will be presented in one of the poster sessions at the works
 
 **Important Dates**
 
-- **Submission deadline**: August 31, 2026 (AoE)
-- Paper Decision Notification: September 29, 2026 (AoE)
-- Workshop Date and Location: December 12 or 13, 2026, in Atlanta, GA, USA
+- Submission deadline: August 31, 2026 (Anywhere on Earth)
+- Paper Decision Notification: September 29, 2026
+- Workshop Date: December 13, 2026
 
 If you have any questions or would like additional information, please feel free to reach out to us via: [<u>neurips.mlxor.workshop@gmail.com</u>](mailto:neurips.mlxor.workshop@gmail.com).
 

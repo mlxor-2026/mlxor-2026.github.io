@@ -23,10 +23,11 @@
 			<div class="inline-block text-4xl"><strong>Second Workshop on ML×OR:</strong><br>Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</div>
 			<div class="mt-8 flex items-center space-x-2">
 				<div class="font-mono text-sm text-gray-500">Supported by</div>
-				<div class="text-sm">INFORMS Applied Probability Society</div>
+				<div class="text-sm">Columbia University &middot; INFORMS Applied Probability Society &middot; Point72/Cubist</div>
 			</div>
-			<div class="text-md mt-8 text-gray-800">December 2026</div>
-			<div class="mt-2 text-sm text-gray-500">NeurIPS 2026 &middot;  Atlanta, GA, USA</div>
+			<div class="text-md mt-8 text-gray-800">December 13, 2026 (Sunday)</div>
+			<div class="mt-2 text-sm text-gray-500">Room C111-112</div>
+			<div class="text-sm text-gray-500">Georgia World Congress Center, Atlanta</div>
 		</div>
 	</div>
 	<div
@@ -43,6 +44,8 @@
 				<NavLink href="#speakers">Speakers</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#organizers">Organizers & PC Members</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#sponsors">Sponsors</NavLink>
 			</div>
 		</div>
 	</div>
@@ -62,7 +65,7 @@
 		<h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
 		<div class="mb-6 text-base md:text-justify">
 			<p>
-				The tentative schedule is shown below and will be updated soon.
+				<strong>Location:</strong> Room C111-112, Georgia World Congress Center, Atlanta
 			</p>
 		</div>
 		<div>
@@ -75,8 +78,16 @@
 				</thead>
 				<tbody>
 					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:00 &ndash; 8:20</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Morning Coffee</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:20 &ndash; 8:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Opening Remark</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 &ndash; 9:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 1</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 1</strong><br>Speaker: David Simchi-Levi (MIT)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 &ndash; 10:00</td>
@@ -87,15 +98,15 @@
 						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 &ndash; 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 1</strong></td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 &ndash; 11:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 2</strong><br>Speaker: Emma Brunskill (Stanford)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 &ndash; 11:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Spotlight Presentations</strong></td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 &ndash; 11:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 1</strong><br>Milind Tambe (Harvard), Benjamin van Roy (Stanford), Phebe Vayanos (USC), Linwei Xin (Cornell), Lei Ying (University of Michigan)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:55 &ndash; 12:45</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:45 &ndash; 12:45</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Lunch</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
@@ -104,29 +115,29 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:45 &ndash; 14:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 2</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 3</strong><br>Speaker: Nathan Kallus (Cornell)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:15 &ndash; 14:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Paper Awards Presentations</strong></td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:45 &ndash; 15:15</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:45 &ndash; 15:45</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:15 &ndash; 16:15</td>
 						<td class="w-full border border-gray-300 px-4 py-2"><strong>Poster Session 3</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:45 &ndash; 16:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 3</strong></td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:15 &ndash; 17:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 2</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 2</strong><br>Erick Delage (HEC Montréal), David Shmoys (Cornell), Masatoshi Uehara (OpenAI), Yao Xie (Georgia Tech), Assaf Zeevi (Columbia)</td>
 					</tr>
 				</tbody>
 			</table>
 		</div>
 		<div class="mt-4 text-sm text-gray-600 italic">
-			<p>The program and times are tentative and subject to change. Speakers will be announced.</p>
+			<p>The schedule is subject to change.</p>
 		</div>
 	</Block>
 
@@ -286,6 +297,24 @@
 		<h1 class="mb-4 text-2xl font-bold" id="program_committee">Program Committee Members</h1>
 		<div class="text-base">
 			<PCmembers />
+		</div>
+	</Block>
+
+	<Block>
+		<h1 class="mb-6 text-2xl font-bold" id="sponsors">Sponsors</h1>
+		<p class="mb-8 text-base text-gray-700">
+			We are grateful for the sponsorships from <a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Columbia Univ.</a>, <a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Applied Probability Society</a> and <a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Point72/Cubist</a>.
+		</p>
+		<div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center justify-items-center">
+			<a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="flex items-center justify-center">
+				<img src="./imgs/Columbia.png" alt="Columbia University" class="h-16 md:h-20 max-w-full object-contain" />
+			</a>
+			<a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="flex items-center justify-center">
+				<img src="./imgs/INFORMS_APS.png" alt="INFORMS Applied Probability Society" class="h-16 md:h-20 max-w-full object-contain" />
+			</a>
+			<a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="md:col-span-2 flex items-center justify-center">
+				<img src="./imgs/icml-2021-cubist-systematic-strategies.png" alt="Point72 / Cubist Systematic Strategies" class="h-16 md:h-20 max-w-full object-contain" />
+			</a>
 		</div>
 	</Block>
 
