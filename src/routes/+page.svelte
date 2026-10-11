@@ -23,9 +23,9 @@
 			<div class="inline-block text-4xl"><strong>Second Workshop on ML×OR:</strong><br>Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</div>
 			<div class="mt-8 flex items-center space-x-2">
 				<div class="font-mono text-sm text-gray-500">Supported by</div>
-				<div class="text-sm">Columbia University &middot; INFORMS Applied Probability Society &middot; Point72/Cubist</div>
+				<div class="text-sm">INFORMS Applied Probability Society</div>
 			</div>
-			<div class="text-md mt-8 text-gray-800">December 13, 2026 (Sunday)</div>
+			<div class="text-md mt-8 text-gray-800">December 13, 2026</div>
 			<div class="mt-2 text-sm text-gray-500">Room C111-112</div>
 			<div class="text-sm text-gray-500">Georgia World Congress Center, Atlanta</div>
 		</div>
@@ -303,14 +303,14 @@
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="sponsors">Sponsors</h1>
 		<p class="mb-8 text-base text-700">
-			We are grateful for the sponsorships from <a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Columbia Univ.</a>, <a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Applied Probability Society</a> and <a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Point72/Cubist</a>.
+			We are grateful for the sponsorships from <a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Applied Probability Society</a>, <a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Columbia University</a> and <a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Point72/Cubist</a>.
 		</p>
 		<div class="mt-8 flex flex-col items-center justify-center gap-8 md:gap-10">
-			<a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="flex items-center justify-center">
-				<img src="./imgs/Columbia.png" alt="Columbia University" class="h-16 w-auto max-w-full object-contain" />
-			</a>
 			<a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="flex items-center justify-center">
 				<img src="./imgs/INFORMS_APS.png" alt="INFORMS Applied Probability Society" class="h-22 w-auto max-w-full object-contain" />
+			</a>
+			<a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="flex items-center justify-center">
+				<img src="./imgs/Columbia.png" alt="Columbia University" class="h-16 w-auto max-w-full object-contain" />
 			</a>
 			<a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="flex items-center justify-center">
 				<img src="./imgs/icml-2021-cubist-systematic-strategies.png" alt="Point72 / Cubist Systematic Strategies" class="h-28 w-auto max-w-full object-contain" />
