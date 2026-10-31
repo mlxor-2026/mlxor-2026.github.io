@@ -103,7 +103,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 &ndash; 11:45</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 1</strong><br>Milind Tambe (Harvard), Benjamin van Roy (Stanford), Phebe Vayanos (USC), Linwei Xin (Cornell), Lei Ying (University of Michigan)</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 1</strong><br>Milind Tambe (Harvard), Phebe Vayanos (USC), Linwei Xin (Cornell), Lei Ying (University of Michigan)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:45 &ndash; 12:45</td>
@@ -131,7 +131,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:15 &ndash; 17:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 2</strong><br>Erick Delage (HEC Montréal), David Shmoys (Cornell), Masatoshi Uehara (OpenAI), Yao Xie (Georgia Tech), Assaf Zeevi (Columbia)</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Panel Discussion 2</strong><br>Erick Delage (HEC Montréal), David Shmoys (Cornell), Yao Xie (Georgia Tech), Assaf Zeevi (Columbia)</td>
 					</tr>
 				</tbody>
 			</table>
@@ -145,7 +145,7 @@
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 		<p class="text-base text-gray-600">The following speakers and panelists are confirmed so far.</p>
 	</Block>
-	<Block size="max-w-4xl">
+	<Block>
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 			<Person
@@ -184,19 +184,6 @@
 				link="https://teamcore.seas.harvard.edu/tambe/"
 				image="./imgs/tambe.jpg"
 				position="top"
-			></Person>
-			<Person
-				name="Masatoshi Uehara"
-				affiliation="OpenAI"
-				link="https://www.masatoshiuehara.com/"
-				image="./imgs/uehara.jpg"
-				position="top"
-			></Person>
-			<Person
-				name="Benjamin<br>Van Roy"
-				affiliation="Stanford University"
-				link="https://web.stanford.edu/~bvr/"
-				image="./imgs/vanroy.jpg"
 			></Person>
 			<Person
 				name="Phebe Vayanos"
