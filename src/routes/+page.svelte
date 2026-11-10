@@ -87,7 +87,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 &ndash; 9:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 1</strong><br>Speaker: David Simchi-Levi (MIT)</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 1</strong><br>Speaker: David Simchi-Levi (MIT / Purdue)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 &ndash; 10:00</td>
@@ -115,7 +115,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:45 &ndash; 14:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 3</strong><br>Speaker: Nathan Kallus (Cornell)</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Keynote Talk 3</strong><br>Speaker: Nathan Kallus (Netflix / Cornell)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:15 &ndash; 14:45</td>
@@ -162,7 +162,7 @@
 			></Person>
 			<Person
 				name="Nathan Kallus"
-				affiliation="Cornell University"
+				affiliation="Netflix / Cornell University"
 				link="https://nathankallus.com/"
 				image="./imgs/nathan.jpg"
 			></Person>
@@ -174,7 +174,7 @@
 			></Person>
 			<Person
 				name="David<br>Simchi-Levi"
-				affiliation="MIT"
+				affiliation="MIT / Purdue University"
 				link="https://slevi1.mit.edu/"
 				image="./imgs/Simchi-Levi.jpg"
 			></Person>
