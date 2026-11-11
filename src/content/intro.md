@@ -14,4 +14,6 @@ We encourage submissions from researchers across ML, OR, applied probability, an
 
 In addition to the presentation of accepted papers, the workshop will feature keynote talks, panel discussions, and plenty of opportunities to interact among participants.
 
-Like last year, we also plan to provide financial support for selected students and junior researchers who contribute to the workshop. More details on the application procedure will be available soon.
+As we did last year, we will provide financial support to selected students and junior researchers who contribute to the workshop. Please submit your application using the link below. The application deadline is **November 27 (AoE).**
+
+[<u>https://forms.gle/VKMR1W7yGopqa49E7</u>](https://forms.gle/VKMR1W7yGopqa49E7)
