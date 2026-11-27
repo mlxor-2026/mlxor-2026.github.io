@@ -290,11 +290,14 @@
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="sponsors">Sponsors</h1>
 		<p class="mb-8 text-base text-700">
-			We are grateful for the sponsorships from <a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Applied Probability Society</a>, <a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Columbia University</a> and <a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Point72/Cubist</a>.
+			We are grateful for the sponsorships from <a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Applied Probability Society</a>, <a href="https://connect.informs.org/simulation/home" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">INFORMS Simulation Society</a>, <a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Columbia University</a> and <a href="https://point72.com/cubist/" target="_blank" rel="noreferrer" class="underline underline-offset-4 hover:text-black">Point72/Cubist</a>.
 		</p>
 		<div class="mt-8 flex flex-col items-center justify-center gap-8 md:gap-10">
 			<a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer" class="flex items-center justify-center">
 				<img src="./imgs/INFORMS_APS.png" alt="INFORMS Applied Probability Society" class="h-22 w-auto max-w-full object-contain" />
+			</a>
+			<a href="https://connect.informs.org/simulation/home" target="_blank" rel="noreferrer" class="flex items-center justify-center">
+				<img src="./imgs/Simulation.png" alt="INFORMS Simulation Society" class="h-19 w-auto max-w-full object-contain" />
 			</a>
 			<a href="https://www.columbia.edu/" target="_blank" rel="noreferrer" class="flex items-center justify-center">
 				<img src="./imgs/Columbia.png" alt="Columbia University" class="h-16 w-auto max-w-full object-contain" />
